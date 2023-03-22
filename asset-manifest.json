@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-car-chess/static/css/main.6e4539cd.css",
+    "main.js": "/space-car-chess/static/js/main.9fa153dc.js",
+    "static/media/mercury-planet-30300.mp4": "/space-car-chess/static/media/mercury-planet-30300.154480defdb82d4f393f.mp4",
+    "static/media/rover.png": "/space-car-chess/static/media/rover.344a5dd6121b4a93ce6a.png",
+    "index.html": "/space-car-chess/index.html",
+    "main.6e4539cd.css.map": "/space-car-chess/static/css/main.6e4539cd.css.map",
+    "main.9fa153dc.js.map": "/space-car-chess/static/js/main.9fa153dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4539cd.css",
+    "static/js/main.9fa153dc.js"
+  ]
+}
