@@ -1,6 +1,4 @@
-# Chess Car
-
-## Space Car Game
+# Space Car Game
 
 ### This is a fun and interactive game where you can control a space car rover using the keyboard arrows. The game allows you to move the rover around and explore different parts of space, while also keeping track of your moves and displaying them in a history container.
 
