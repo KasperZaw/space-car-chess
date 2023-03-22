@@ -12,7 +12,7 @@
 * Choose number of columns and rows
 * Hit Play button to start Game
 * Show Records button will display your moves history
-* Clear will wipe your moves history and Hide will hide the display
+* Clear will delete your moves history and Hide will hide the display
 * You can change the size of the board while playing
 
 ### License
