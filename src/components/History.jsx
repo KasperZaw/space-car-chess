@@ -1,10 +1,19 @@
 import React from "react";
-const History = ({ setSettings, setRecords, records, settings,moveCounter}) => {
+const History = ({
+  setSettings,
+  setRecords,
+  records,
+  settings,
+  moveCounter,
+}) => {
   const history = (
     <div className="history-container" key={moveCounter}>
       <div className="history-buttons">
-        <button className="history-button" onClick={() => setRecords([])}>Clear</button>
-        <button className="history-button"
+        <button className="history-button" onClick={() => setRecords([])}>
+          Clear
+        </button>
+        <button
+          className="history-button"
           onClick={() =>
             setSettings((settings) => ({ ...settings, historyOn: false }))
           }
@@ -21,7 +30,7 @@ const History = ({ setSettings, setRecords, records, settings,moveCounter}) => {
   );
   const historyButton = (
     <button
-    className="history-button"
+      className="history-button"
       onClick={() =>
         setSettings((settings) => ({ ...settings, historyOn: true }))
       }

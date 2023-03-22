@@ -200,7 +200,6 @@ const Board = ({
     }
   };
 
-
   useEffect(() => {
     draw();
     recordPosition();
@@ -237,7 +236,7 @@ const Board = ({
         records={records}
         settings={settings}
       />
-      
+
       <div className="mobile-keyboard">
         <button onClick={() => handleKeyClick("left")}>⬅️</button>
         <button onClick={() => handleKeyClick("right")}>➡️</button>
